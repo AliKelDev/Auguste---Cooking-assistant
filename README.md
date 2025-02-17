@@ -196,6 +196,6 @@ This snippet demonstrates how the `ai-chat` function integrates user profiles, p
 
 ## Created By
 
-ChefGPT is a project by Jordan Montée (AlikelDev) and Kamil Serrai (Klima42) for Alikearn Studio.
+ChefGPT is a project by Jordan Montée (AlikelDev) and Kamil Serrai (@[Klima42](https://github.com/Klima42)) for Alikearn Studio.
 
 ---
