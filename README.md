@@ -1,4 +1,4 @@
-# ChefGPT: Your AI-Powered Culinary Assistant
+# DeepChef: Your AI-Powered Culinary Assistant
 
 > AI-powered culinary assistant. Chat with a virtual Michelin-star chef, get personalized recipes, and elevate your cooking skills.
 
@@ -6,11 +6,11 @@
 
 ## Overview
 
-ChefGPT brings the expertise of a Michelin-starred chef, Auguste, directly to your kitchen. This web application leverages the power of AI to provide a personalized and interactive culinary experience. Create custom profiles, chat with Auguste, and receive recipe suggestions tailored to your specific needs and preferences, even using image recognition of your ingredients!
+DeepChef brings the expertise of a Michelin-starred chef, Auguste, directly to your kitchen. This web application leverages the power of AI to provide a personalized and interactive culinary experience. Create custom profiles, chat with Auguste, and receive recipe suggestions tailored to your specific needs and preferences, even using image recognition of your ingredients!
 
 ## Features & How It Works
 
-ChefGPT is designed to be your all-in-one culinary companion. Here's how it works:
+DeepChef is designed to be your all-in-one culinary companion. Here's how it works:
 
 1.  **Create Personalized Profiles:**
 
@@ -64,7 +64,7 @@ ChefGPT is designed to be your all-in-one culinary companion. Here's how it work
 
 ## Technologies Used
 
-ChefGPT is built using a modern web development stack:
+DeepChef is built using a modern web development stack:
 
 *   **Frontend:** React, React Router, Framer Motion, Lucide React, Tailwind CSS, Vite
 *   **Backend:** Netlify Functions, Google Gemini API, Moondream API
@@ -196,6 +196,6 @@ This snippet demonstrates how the `ai-chat` function integrates user profiles, p
 
 ## Created By
 
-ChefGPT is a project by Jordan Montée (AlikelDev) and Kamil Serrai (@[Klima42](https://github.com/Klima42)) for Alikearn Studio.
+DeepChef is a project by Jordan Montée (AlikelDev) and Kamil Serrai (@[Klima42](https://github.com/Klima42)) for Alikearn Studio.
 
 ---
